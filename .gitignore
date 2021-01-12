@@ -1,0 +1,7 @@
+.clang-format
+.ycm_extra_conf.py
+*.s
+*.bin
+*.hex
+*.elf
+__pycache__
